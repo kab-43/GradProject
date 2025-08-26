@@ -2,12 +2,10 @@
 
 ## Egypt AI travelling companion
 ### Summary
-You as a tourist want to visit Egypt but don't know where to go so instead of going to a generic AI travelling companion you use our app. with refined data sets and an AI that you can chat with so that it knows your prefrences and edit your trip till you have the perfect vacation plan all laid out and with just one click you'll have everything booked and ready for you.
+You as a tourist want to visit Egypt but don't know where to go and don't trust social media that much, so instead of going to a generic AI travelling companion you use our app. With refined data sets and an AI that you can chat with so that it knows your prefrences and edit your trip till you have the perfect vacation plan all laid out and with just one click you'll have everything booked and ready for you.
 
 ### System overview
-[Flutter App] <--> [.NET Backend API] <--> [Database + AI Engine]
-                                  |
-                           [External APIs: Google Maps, Booking.com, Yelp...]
+![System overview](./images/sys_overview_travel.png)
 
 ### Implementattion steps
 Phase 1: Core Infrastructure
@@ -48,13 +46,10 @@ https://www.xmap.ai/data-catalogs/egypt-surveyed-points-of-interest-data?utm_sou
 
 ## Smart Campus assistant
 ### Summary
-
+As a fresh student in a new uni you want to find places quickly like if someone is pointing them out on a 3D model and have all your resources in one places and bonus points if you get to meet people along the way + why not have chatgpt inside the same app instead of switching apps all the time that helps you with assignments, that's the goal of the app (it's actually that simple). Should be able to score points with all the project judges and maybe build something cool instead of relying on google drive (no offence to the maintainers)
 
 ### System overview
-[Flutter App] <--> [.NET Backend API] <--> [Database + AI Tutor]
-     |               |                     |
- [Local LAN Chat]    |             [Course Material Storage]
- [3D Map/AR]         |                     
+![System overview](./images/sys_overview_campus.png)
 
 ### Implementation steps
 Phase 1: Core Portal
