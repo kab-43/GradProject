@@ -23,42 +23,42 @@ The fresh new idea, make a Learning Management System for university because the
 
 ### Personalized Student Support
 
-* The AI companion can access (with the user's consent of course) each student's courses, grades, schedule, and deadlines to provide them with personalized assistance.
-* Available 24/7 with different locales and dialects.
+- The AI companion can access (with the user's consent of course) each student's courses, grades, schedule, and deadlines to provide them with personalized assistance.
+- Available 24/7 with different locales and dialects.
 
 ### Fully Customizable AI companion
 
-* Professors can instruct the AI companion to use specific refrences or use certain methods when explaining concepts first.
-* Students also can control how the AI responds to them just like with any other AI.
+- Professors can instruct the AI companion to use specific refrences or use certain methods when explaining concepts first.
+- Students also can control how the AI responds to them just like with any other AI.
 
 ### Course Management (doagain)
 
-* Organized Content Library: Folders for lectures, PDFs, videos, recordings
-* Version Control: Track material updates with "what's new" indicators
-* Collaborative Notes: Students can upload/share notes (professor-moderated)
-* Material Search: Search across all courses instantly
-* Offline Access: Download materials for offline study (mobile app)
-* Related Resources: AI suggests additional learning materials
-* Annotation Tools: Highlight and annotate PDFs directly in-app
+- Organized Content Library: Folders for lectures, PDFs, videos, recordings
+- Version Control: Track material updates with "what's new" indicators
+- Collaborative Notes: Students can upload/share notes (professor-moderated)
+- Material Search: Search across all courses instantly
+- Offline Access: Download materials for offline study (mobile app)
+- Related Resources: AI suggests additional learning materials
+- Annotation Tools: Highlight and annotate PDFs directly in-app
 
 ### Smart Session Alerts
 
-* include the announcements bit here
+- include the announcements bit here
 
 ### Calendar Integration
 
-* Natural language commands: *“Add quiz to my calendar.”*
-* Automatic deadline reminders through push notifications.
+- Natural language commands: *“Add quiz to my calendar.”*
+- Automatic deadline reminders through push notifications.
 
 ### Smart Notes
 
-* Converts helpful chat conversations into organized study notes, auto-formatted with headings and key concepts.
-* Students can save, export, and share these notes.
+- Converts helpful chat conversations into organized study notes, auto-formatted with headings and key concepts.
+- Students can save, export, and share these notes.
 
 ### Help Forums
-* Allow the users to open different threads on different problems they face when studying
-* Each student will have a banner signifying their contribution to the forums
-* Professors and TAs will have their own badges to signify their position, it'll be like an admin helping with a problem
+- Allow the users to open different threads on different problems they face when studying
+- Each student will have a banner signifying their contribution to the forums
+- Professors and TAs will have their own badges to signify their position, it'll be like an admin helping with a problem
 
 ### Assignment Submission
 
@@ -66,26 +66,32 @@ The fresh new idea, make a Learning Management System for university because the
 
 ### In-app Messaging
 
-* add that adminstration can reach out to you through this not only teaching staff
+- add that adminstration can reach out to you through this not only teaching staff
 
 ### Academic progress tracker
 
-* amino document here
+- amino document here
 
 ### Student Services Center
 
-* uni related stuff here (paying tutition and editing your data and such(
+- uni related stuff here (paying tutition and editing your data and such(
 
 ## Tech Stack
 **Flutter** for the mobile application
+
 **React** for the web interface
+
 **.Net** for the backend
+
 **SQL** for the database
+
 **OpenAI GPT-40-mini** for the AI model
 
 
 # TBD
 anaything with "doagain" should be looked at again
+
 do we use react or just flutter for everything
+
 what areas do we feel are lacking to know who to talk to as our TA
 
